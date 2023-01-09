@@ -1,5 +1,5 @@
 {
-  "name": "react-native-country-picker-modal",
+  "name": "@paladin-analytics/react-native-country-picker-modal",
   "version": "2.5.0",
   "description": "react-native country picker",
   "main": "lib/index.js",
@@ -7,6 +7,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xcarpentier/react-native-country-picker-modal.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@paladin-analytics"
   },
   "scripts": {
     "start": "yarn config:dev && expo start",
