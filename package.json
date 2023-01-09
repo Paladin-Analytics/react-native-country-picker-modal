@@ -1,6 +1,6 @@
 {
   "name": "@paladin-analytics/react-native-country-picker-modal",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "react-native country picker",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
